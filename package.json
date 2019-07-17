@@ -1,0 +1,26 @@
+{
+  "name": "zeelo-proxy",
+  "version": "1.0.0",
+  "description": "Zillow Clone Proxy",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewYee92/Zeelo-Proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewYee92/Zeelo-Proxy/issues"
+  },
+  "homepage": "https://github.com/MatthewYee92/Zeelo-Proxy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.1"
+  }
+}
