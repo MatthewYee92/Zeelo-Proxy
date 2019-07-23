@@ -1,8 +1,8 @@
-.wrapper{
+.body {
   display: flex;
   flex-direction: row;
 }
 
-#container{
+#container {
   width: 1200px;
 }
